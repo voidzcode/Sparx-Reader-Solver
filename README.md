@@ -1,3 +1,1 @@
-! WORK IN PROGRESS !
-Currently only Copy Paste fix but working on a auto-solver, so that's cool ig.
-Enjoy! (or don't idc)
+(Please go to Slime-Sparx Repository instead as it has all the features of this and enhanced ones. This one is now discontiuned and will no longer be worked on.)
